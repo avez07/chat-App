@@ -1,6 +1,0 @@
-[build]
-  command = "npm run build"  # Adjust the build command if needed
-  publish = "index.js"  # Specify the directory with your built files
-
-[dev]
-  command = "npm run start"  # Specify the development server start command
